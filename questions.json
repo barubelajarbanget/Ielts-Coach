@@ -1,0 +1,158 @@
+{
+ "reading": {},
+ "listening": {},
+ "vocab": {
+  "all": [
+   {
+    "title": "Vocabulary set",
+    "text": "Choose the best answer.",
+    "questions": [
+     {
+      "q": "Which word means the same as “significant”?",
+      "options": [
+       "important",
+       "tiny",
+       "quiet",
+       "late"
+      ],
+      "answer": 0,
+      "why": "Significant means important or large enough to matter."
+     },
+     {
+      "q": "The government introduced new rules to ______ pollution.",
+      "options": [
+       "reduce",
+       "invite",
+       "borrow",
+       "measure"
+      ],
+      "answer": 0,
+      "why": "Reduce means make smaller, and it fits with pollution."
+     },
+     {
+      "q": "Students must ______ the form before Friday.",
+      "options": [
+       "submit",
+       "arrive",
+       "smell",
+       "climb"
+      ],
+      "answer": 0,
+      "why": "Submit means hand in."
+     },
+     {
+      "q": "An “advantage” is...",
+      "options": [
+       "a benefit",
+       "a mistake",
+       "a journey",
+       "a rule"
+      ],
+      "answer": 0,
+      "why": "An advantage is something that helps you or is a benefit."
+     },
+     {
+      "q": "“Consequently” is closest in meaning to:",
+      "options": [
+       "as a result",
+       "in addition",
+       "for example",
+       "on the other hand"
+      ],
+      "answer": 0,
+      "why": "Consequently shows a result."
+     },
+     {
+      "q": "Choose the correct collocation: make a ______",
+      "options": [
+       "decision",
+       "homework",
+       "travel",
+       "weather"
+      ],
+      "answer": 0,
+      "why": "We make a decision, but we do homework."
+     }
+    ]
+   }
+  ]
+ },
+ "grammar": {
+  "all": [
+   {
+    "title": "Grammar set",
+    "text": "Choose the correct answer.",
+    "questions": [
+     {
+      "q": "If I ______ more time, I would study abroad.",
+      "options": [
+       "had",
+       "have",
+       "will have",
+       "having"
+      ],
+      "answer": 0,
+      "why": "Second conditional: if + past simple, would + verb."
+     },
+     {
+      "q": "She ______ in London since 2019.",
+      "options": [
+       "has lived",
+       "lives",
+       "is living",
+       "lived"
+      ],
+      "answer": 0,
+      "why": "Present perfect is used with since."
+     },
+     {
+      "q": "Choose the correct sentence.",
+      "options": [
+       "There are many people here.",
+       "There is many people here.",
+       "There be many people here.",
+       "There are much people here."
+      ],
+      "answer": 0,
+      "why": "Many goes with plural countable nouns and are."
+     },
+     {
+      "q": "The report ______ by the team last week.",
+      "options": [
+       "was written",
+       "wrote",
+       "is writing",
+       "has write"
+      ],
+      "answer": 0,
+      "why": "Passive voice, past simple: was + past participle."
+     },
+     {
+      "q": "He is interested ______ science.",
+      "options": [
+       "in",
+       "on",
+       "at",
+       "for"
+      ],
+      "answer": 0,
+      "why": "The fixed phrase is interested in."
+     },
+     {
+      "q": "I look forward to ______ you.",
+      "options": [
+       "meeting",
+       "meet",
+       "met",
+       "will meet"
+      ],
+      "answer": 0,
+      "why": "Look forward to is followed by an -ing form."
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {},
+ "speaking": {}
+}
